@@ -3,13 +3,13 @@ from operator import __add__, __sub__, __mul__, __truediv__
 
 class Calculator(object):
     def __init__(self):
-        self.ops = {'+': __add__, '-': __sub__, '*': __mul__, '/': __truediv__}
+        self.o = {'+': __add__, '-': __sub__, '*': __mul__, '/': __truediv__}
 
     def calc(self, s, op='*/'):
         i = 1
         while i < len(s) - 1:
             if s[i] in op:
-                s[i - 1] = str(self.ops[s[i]](float(s[i - 1]), float(s[i + 1])))
+                s[i - 1] = str(self.o[s[i]](float(s[i - 1]), float(s[i + 1])))
                 del s[i:i + 2]
                 i -= 2
             i += 1

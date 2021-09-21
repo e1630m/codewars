@@ -1,7 +1,7 @@
 def path_finder(maze):
     if maze == '.':
         return 1
-    m = [[0 if i == '.' else len(maze) + 1 for i in l] for l in maze.split()]
+    m = [[0 if i == '.' else len(maze) + 1 for i in r] for r in maze.split()]
     h, w = len(m), len(m[0])
     nxt = [(0, 0)]
     while nxt:

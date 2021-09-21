@@ -1,9 +1,9 @@
 def get_edges(w, h):
-    t = [(0, i) for i in range(w)]
-    l = [(i, 0) for i in range(1, h)]
-    r = [(i, w - 1) for i in range(1, h)]
-    b = [(h - 1, i) for i in range(1, w - 1)]
-    return t + l + r + b
+    top = [(0, i) for i in range(w)]
+    left = [(i, 0) for i in range(1, h)]
+    right = [(i, w - 1) for i in range(1, h)]
+    bottom = [(h - 1, i) for i in range(1, w - 1)]
+    return top + left + right + bottom
 
 
 def fully_blocked(m, edges, ans=True):
@@ -15,7 +15,7 @@ def fully_blocked(m, edges, ans=True):
 
 def find_start_pos(m, w, h):
     ans = []
-    for tx in range(w): 
+    for tx in range(w):
         for ty in range(h):
             if m[ty][tx] == 'k':
                 ans.append((tx, ty))
@@ -47,7 +47,7 @@ def has_exit(maze):
     edges = get_edges(w, h)
     if fully_blocked(maze, edges):
         return False
-    m = [[w * h + 2 if c == '#' else 0 for c in l] for l in maze]
+    m = [[w * h + 2 if c == '#' else 0 for c in r] for r in maze]
     m[y][x] = 1
     nxt = check_neighbors(m, x, y, w, h)[0]
     while nxt:

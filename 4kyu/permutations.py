@@ -1,5 +1,4 @@
 from itertools import permutations as ip
-from time import perf_counter_ns as ns
 
 
 def sort_perm(s):  # fastest
@@ -14,7 +13,7 @@ def sort_perm(s):  # fastest
             break
         while s[j] <= s[i - 1]:
             j -= 1
-        s[i - 1], s[j] = s[j], s[i -1]
+        s[i - 1], s[j] = s[j], s[i - 1]
         while i < k:
             s[i], s[k] = s[k], s[i]
             i += 1

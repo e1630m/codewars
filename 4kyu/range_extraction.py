@@ -1,19 +1,19 @@
-def solution(l, ans=''):
+def solution(n, ans=''):
     tmp = 0
-    for i, cur in enumerate(l[1:]):
-        if cur - l[i] != 1:
+    for i, cur in enumerate(n[1:]):
+        if cur - n[i] != 1:
             ans += ',' if ans != '' else ''
             if tmp == i:
-                ans += str(l[tmp])
+                ans += str(n[tmp])
             else:
                 if tmp + 1 < i:
-                    ans += str(l[tmp]) + '-' + str(l[i])
+                    ans += str(n[tmp]) + '-' + str(n[i])
                 else:
-                    ans += ','.join(str(i) for i in l[tmp:i + 1])
+                    ans += ','.join(str(i) for i in n[tmp:i + 1])
             tmp = i + 1
     ans += ',' if ans != '' else ''
-    if tmp + 2 < len(l):
-        ans += str(l[tmp]) + '-' + str(l[-1])
+    if tmp + 2 < len(n):
+        ans += str(n[tmp]) + '-' + str(n[-1])
     else:
-        ans += ','.join(str(i) for i in l[tmp:])
+        ans += ','.join(str(i) for i in n[tmp:])
     return ans

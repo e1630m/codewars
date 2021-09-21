@@ -6,12 +6,12 @@ class PaginationHelper:
         self.ic = len(collection)
         q, r = divmod(self.ic, self.ipp)
         self.collection = [collection[i * self.ipp:i * self.ipp + self.ipp]
-            for i in range(q + (r ==0) + 1)]
+                           for i in range(q + (r == 0) + 1)]
 
     # returns the number of items within the entire collection
-    def item_count(self):
+    def icount(self):
         return self.ic
-        
+
     # returns the number of pages
     def page_count(self):
         return len(self.collection)
@@ -26,6 +26,6 @@ class PaginationHelper:
     # determines what page an item is on. Zero based indexes.
     # this method should return -1 for item_index values that are out of range
     def page_index(self, item_index):
-        if item_index < 0 or item_index >= self.item_count() or not self.item_count():
+        if item_index < 0 or item_index >= self.icount() or not self.icount():
             return -1
         return item_index // self.ipp
