@@ -6,9 +6,9 @@ def format_duration(n: int) -> str:
     count['minute'], count['second'] = divmod(n, 60)
     ans = ''
     c = {k + 's' if v > 1 else k: v for k, v in count.items() if v}
-    l = len(c)
+    nz = len(c)
     for k, v in c.items():
-        l -= 1
-        separator = ', ' if l > 1 else ' and ' if l else ''
+        nz -= 1
+        separator = ', ' if nz > 1 else ' and ' if nz else ''
         ans += f'{v} {k}' + separator
     return ans if ans else 'now'
