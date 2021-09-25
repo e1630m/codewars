@@ -1,4 +1,5 @@
-## List of solutions [![Badge](https://www.codewars.com/users/e1630m/badges/small)](https://www.codewars.com/users/e1630m)
+# Codewars Solutions
+## Katas [![Badge](https://www.codewars.com/users/e1630m/badges/small)](https://www.codewars.com/users/e1630m)
 | kyu | kata | solutions |
 | :-: | :--: | :-------: |
 | [3](https://github.com/e1630m/codewars/tree/main/3kyu) | [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)                                       | [py](https://github.com/e1630m/codewars/blob/main/3kyu/calculator.py) |
