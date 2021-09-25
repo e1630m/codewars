@@ -2,7 +2,7 @@
 | kyu | kata | solutions |
 | :-: | :--: | :-------: |
 | [3](https://github.com/e1630m/codewars/tree/main/3kyu) | [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)                                       | [py](https://github.com/e1630m/codewars/blob/main/3kyu/calculator.py) |
-| [3](https://github.com/e1630m/codewars/tree/main/3kyu) | [Calculator](https://www.codewars.com/kata/5296bc77afba8baa690002d7)                                       | [py](https://github.com/e1630m/codewars/blob/main/3kyu/sudoku_solver.py) |
+| [3](https://github.com/e1630m/codewars/tree/main/3kyu) | [Sudoku Solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7)                                    | [py](https://github.com/e1630m/codewars/blob/main/3kyu/sudoku_solver.py) |
 | [4](https://github.com/e1630m/codewars/tree/main/4kyu) | [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292)                     | [py](https://github.com/e1630m/codewars/blob/main/4kyu/catching_car_mileage_numbers.py) |
 | [4](https://github.com/e1630m/codewars/tree/main/4kyu) | [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)                   | [cpp](https://github.com/e1630m/codewars/blob/main/4kyu/human_readable_duration_format.cpp) \| [py](https://github.com/e1630m/codewars/blob/main/4kyu/human_readable_duration_format.py) |
 | [4](https://github.com/e1630m/codewars/tree/main/4kyu) | [Matrix Determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c)                               | [py](https://github.com/e1630m/codewars/blob/main/4kyu/matrix_determinant.py) |
