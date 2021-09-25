@@ -3,6 +3,7 @@
 | kyu | kata | solutions |
 | :-: | :--: | :-------: |
 | [3](./3kyu) | [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)                                       | [py](./3kyu/calculator.py) |
+| [3](./3kyu) | [Prime Streaming (PG-13)](https://www.codewars.com/kata/5519a584a73e70fa570005f5)                          | [py](./3kyu/prime_streaming_pg_13.py) |
 | [3](./3kyu) | [Sudoku Solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7)                                    | [py](./3kyu/sudoku_solver.py) |
 | [4](./4kyu) | [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292)                     | [py](./4kyu/catching_car_mileage_numbers.py) |
 | [4](./4kyu) | [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)                   | [cpp](./4kyu/human_readable_duration_format.cpp) \| [py](./4kyu/human_readable_duration_format.py) |
