@@ -46,6 +46,7 @@
 | [7](./7kyu) | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)                                | [java](./7kyu/Troll.java) \| [py](./7kyu/disemvowel_trolls.py) |
 | [7](./7kyu) | [Last Survivor](https://www.codewars.com/kata/609eee71109f860006c377d1)                                    | [js](./7kyu/last_survivor.js) |
 | [7](./7kyu) | [Pandemia 🌡️](https://www.codewars.com/kata/5e2596a9ad937f002e510435)                                       | [c](./7kyu/pandemia.c) \| [py](./7kyu/pandemia.py) |
+| [7](./7kyu) | [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)                                    | [java](./7kyu/ReverseWord.java) |
 | [7](./7kyu) | [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)                                | [go](./7kyu/string_ends_with.go) \| [py](./7kyu/string_ends_with.py) |
 | [7](./7kyu) | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)                                      | [py](./7kyu/vowel_count.py) |
 | [8](./8kyu) | [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://www.codewars.com/kata/56efc695740d30f963000557)            | [py](./8kyu/alternating_case.py) |
