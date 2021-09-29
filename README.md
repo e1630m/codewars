@@ -16,6 +16,7 @@
 | [4](./4kyu) | [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)                                 | [py](./4kyu/range_extraction.py) |
 | [4](./4kyu) | [Simple Maze](https://www.codewars.com/kata/56bb9b7838dd34d7d8001b3c)                                      | [py](./4kyu/simple_maze.py) |
 | [4](./4kyu) | [Twice Linear](https://www.codewars.com/kata/5672682212c8ecf83e000050)                                     | [py](./4kyu/twice_linear.py) |
+| [5](./5kyu) | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)               | [js](./5kyu/extract_the_domain_name_from_a_url.js) |
 | [5](./5kyu) | [Factorial Decomposition](https://www.codewars.com/kata/5a045fee46d843effa000070)                          | [cpp](./5kyu/factorial_decomposition.cpp) \| [py](./5kyu/factorial_decomposition.py) |
 | [5](./5kyu) | [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4)                                    | [py](./5kyu/greed_is_good.py) |
 | [5](./5kyu) | [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004)                           | [py](./5kyu/is_my_friend_cheating.py) |
