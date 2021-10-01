@@ -24,6 +24,7 @@
 | [5](./5kyu) | [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a)                                 | [py](./5kyu/pagination_helper.py) |
 | [5](./5kyu) | [Prime Numbers](https://www.codewars.com/kata/52dd72494367608ac1000416)                                    | [js](./5kyu/prime_numbers.js) |
 | [5](./5kyu) | [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)                            | [py](./5kyu/rgb_to_hex_conversion.py) |
+| [5](./5kyu) | [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)                                 | [js](./5kyu/simple_pig_latin.js) \| [py](./5kyu/simple_pig_latin.py) |
 | [6](./6kyu) | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)                                       | [py](./6kyu/array_diff.py) |
 | [6](./6kyu) | [Bowling Pins](https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010)                                     | [c](./6kyu/bowling_pins.c) \| [py](./6kyu/bowling_pins.py) |
 | [6](./6kyu) | [Build a pile of Cubes](https://www.codewars.com/kata/5592e3bd57b64d00f3000047)                            | [py](./6kyu/build_a_pile_of_cubes.py) |
