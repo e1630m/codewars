@@ -10,6 +10,7 @@
 | [4](./4kyu) | [Matrix Determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c)                               | [py](./4kyu/matrix_determinant.py) |
 | [4](./4kyu) | [Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e)          | [py](./4kyu/next_bigger_number_with_the_same_digits.py) |
 | [4](./4kyu) | [Next smaller number with the same digits](https://www.codewars.com/kata/5659c6d896bc135c4c00021e)         | [py](./4kyu/next_smaller_number_with_the_same_digits.py) |
+| [4](./4kyu) | [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)                              | [py](./4kyu/parseint_reloaded.py) |
 | [4](./4kyu) | [Path Finder #1: can you reach the exit?](https://www.codewars.com/kata/5765870e190b1472ec0022a2)          | [py](./4kyu/path_finder_1_can_you_reach_the_exit.py) |
 | [4](./4kyu) | [Path Finder #2: shortest path](https://www.codewars.com/kata/57658bfa28ed87ecfa00058a)                    | [py](./4kyu/path_finder_2_shortest_path.py) |
 | [4](./4kyu) | [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)                                     | [js](./4kyu/permutations.js) \| [py](./4kyu/permutations.py) |
