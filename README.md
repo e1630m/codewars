@@ -2,6 +2,9 @@
 ## [Katas](https://www.codewars.com/kata) [![Badge](https://www.codewars.com/users/e1630m/badges/small)](https://www.codewars.com/users/e1630m)
 | kyu | kata | solutions |
 | :-: | :--: | :-------: |
+| [2](./2kyu) | [One Line Task: Circle Intersection](https://www.codewars.com/kata/5908242330e4f567e90000a3)               | [py](./2kyu/one_line_task_circle_interaction.py) |
+| [2](./2kyu) | [Multi Line Task++: Hello World](https://www.codewars.com/kata/5935558a32fb828aad001213)                   | [js](./2kyu/multi_line_task_hello_world.js) |
+| [3](./3kyu) | [Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)                       | [py](./3kyu/battleship_field_validator.py) |
 | [3](./3kyu) | [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)                                       | [py](./3kyu/calculator.py) |
 | [3](./3kyu) | [Prime Streaming (PG-13)](https://www.codewars.com/kata/5519a584a73e70fa570005f5)                          | [py](./3kyu/prime_streaming_pg_13.py) |
 | [3](./3kyu) | [Sudoku Solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7)                                    | [py](./3kyu/sudoku_solver.py) |
