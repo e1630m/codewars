@@ -9,6 +9,7 @@
 | [3](./3kyu) | [Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027)                      | [c](./3kyu/last_digit_of_a_huge_number.c) \| [cpp](./3kyu/last_digit_of_a_huge_number.cpp) |
 | [3](./3kyu) | [Prime Streaming (PG-13)](https://www.codewars.com/kata/5519a584a73e70fa570005f5)                          | [py](./3kyu/prime_streaming_pg_13.py) |
 | [3](./3kyu) | [Sudoku Solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7)                                    | [py](./3kyu/sudoku_solver.py) |
+| [3](./3kyu) | [Texas Hold'em Hands](https://www.codewars.com/kata/524c74f855025e2495000262)                              | [py](./3kyu/texas_holdem_hands.py) |
 | [4](./4kyu) | [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)                               | [cpp](./4kyu/adding_big_numbers.cpp) |
 | [4](./4kyu) | [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292)                     | [py](./4kyu/catching_car_mileage_numbers.py) |
 | [4](./4kyu) | [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)                   | [cpp](./4kyu/human_readable_duration_format.cpp) \| [py](./4kyu/human_readable_duration_format.py) |
