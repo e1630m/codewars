@@ -6,6 +6,7 @@
 | [2](./2kyu) | [Multi Line Task++: Hello World](https://www.codewars.com/kata/5935558a32fb828aad001213)                   | [js](./2kyu/multi_line_task_hello_world.js) |
 | [3](./3kyu) | [Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)                       | [py](./3kyu/battleship_field_validator.py) |
 | [3](./3kyu) | [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)                                       | [py](./3kyu/calculator.py) |
+| [3](./3kyu) | [Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027)                      | [c](./3kyu/last_digit_of_a_huge_number.c) \| [cpp](./3kyu/last_digit_of_a_huge_number.cpp) |
 | [3](./3kyu) | [Prime Streaming (PG-13)](https://www.codewars.com/kata/5519a584a73e70fa570005f5)                          | [py](./3kyu/prime_streaming_pg_13.py) |
 | [3](./3kyu) | [Sudoku Solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7)                                    | [py](./3kyu/sudoku_solver.py) |
 | [4](./4kyu) | [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)                               | [cpp](./4kyu/adding_big_numbers.cpp) |
@@ -48,6 +49,7 @@
 | [6](./6kyu) | [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050)                              | [py](./6kyu/playing_with_digits.py) |
 | [6](./6kyu) | [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)                           | [py](./6kyu/roman_numerals_encoder.py) |
 | [6](./6kyu) | [The Great Digital Conflict](https://www.codewars.com/kata/605150ba96ff8c000b6e3df8)                       | [js](./6kyu/the_great_digital_conflict.js) \| [py](./6kyu/the_great_digital_conflict.py) |
+| [6](./6kyu) | [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)                           | [c](./6kyu/take_a_ten_minute_walk.c) |
 | [6](./6kyu) | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)                              | [py](./6kyu/tribonacci_sequence.py) |
 | [6](./6kyu) | [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58)                                    | [py](./6kyu/which_are_in.py) |
 | [7](./7kyu) | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)                                | [java](./7kyu/Troll.java) \| [py](./7kyu/disemvowel_trolls.py) |
