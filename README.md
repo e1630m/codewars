@@ -6,6 +6,7 @@
 | [2](./2kyu) | [Multi Line Task++: Hello World](https://www.codewars.com/kata/5935558a32fb828aad001213)                   | [js](./2kyu/multi_line_task_hello_world.js) |
 | [3](./3kyu) | [Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)                       | [py](./3kyu/battleship_field_validator.py) |
 | [3](./3kyu) | [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)                                       | [py](./3kyu/calculator.py) |
+| [3](./3kyu) | [Closest pair of points in linearithmic time](https://www.codewars.com/kata/5376b901424ed4f8c20002b7)      | [py](./3kyu/closest_pair_of_points_in_linearithmic_time.py) |
 | [3](./3kyu) | [Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027)                      | [c](./3kyu/last_digit_of_a_huge_number.c) \| [cpp](./3kyu/last_digit_of_a_huge_number.cpp) |
 | [3](./3kyu) | [Prime Streaming (PG-13)](https://www.codewars.com/kata/5519a584a73e70fa570005f5)                          | [py](./3kyu/prime_streaming_pg_13.py) |
 | [3](./3kyu) | [Sudoku Solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7)                                    | [py](./3kyu/sudoku_solver.py) |
