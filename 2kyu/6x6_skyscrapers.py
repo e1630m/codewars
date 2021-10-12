@@ -8,7 +8,6 @@ class Permscraper:
         self.l = clue[self.size * 4 - 1:self.size * 3 - 1:-1]
         self.c = self.gen_cdict()
 
-
     def gen_perms(self, t):
         if len(t) < 2:
             return (t, )
@@ -29,10 +28,10 @@ class Permscraper:
         return sum(h >= max(line[:i + 1]) for i, h in enumerate(line))
 
     def get_pboard(self):
-        r, c, m = [], [], lambda sets: map(lambda x: tuple(reversed(x)), sets)
+        r, c, m = [], [], lambda s: set(map(lambda x: tuple(reversed(x)), s))
         for i in range(self.size):
-            r.append(self.c[self.l[i]].intersection(set(m(self.c[self.r[i]]))))
-            c.append(self.c[self.t[i]].intersection(set(m(self.c[self.b[i]]))))
+            r.append(self.c[self.l[i]].intersection(m(self.c[self.r[i]])))
+            c.append(self.c[self.t[i]].intersection(m(self.c[self.b[i]])))
         return r, c
 
     def solve(self):
