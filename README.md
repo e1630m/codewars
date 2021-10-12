@@ -2,6 +2,7 @@
 ## [Katas](https://www.codewars.com/kata) [![Badge](https://www.codewars.com/users/e1630m/badges/small)](https://www.codewars.com/users/e1630m)
 | kyu | kata | solutions |
 | :-: | :--: | :-------: |
+| [2](./2kyu) | [6 By 6 Skyscrapers](https://www.codewars.com/kata/5679d5a3f2272011d700000d)                               | [py](./2kyu/6x6_skyscrapers.py) |
 | [2](./2kyu) | [One Line Task: Circle Intersection](https://www.codewars.com/kata/5908242330e4f567e90000a3)               | [py](./2kyu/one_line_task_circle_interaction.py) |
 | [2](./2kyu) | [Multi Line Task++: Hello World](https://www.codewars.com/kata/5935558a32fb828aad001213)                   | [js](./2kyu/multi_line_task_hello_world.js) |
 | [3](./3kyu) | [Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)                       | [py](./3kyu/battleship_field_validator.py) |
@@ -11,6 +12,7 @@
 | [3](./3kyu) | [Prime Streaming (PG-13)](https://www.codewars.com/kata/5519a584a73e70fa570005f5)                          | [py](./3kyu/prime_streaming_pg_13.py) |
 | [3](./3kyu) | [Sudoku Solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7)                                    | [py](./3kyu/sudoku_solver.py) |
 | [3](./3kyu) | [Texas Hold'em Hands](https://www.codewars.com/kata/524c74f855025e2495000262)                              | [py](./3kyu/texas_holdem_hands.py) |
+| [4](./4kyu) | [4 By 4 Skyscrapers](https://www.codewars.com/kata/5671d975d81d6c1c87000022)                               | [py](./4kyu/4x4_skyscrapers.py) |
 | [4](./4kyu) | [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)                               | [cpp](./4kyu/adding_big_numbers.cpp) |
 | [4](./4kyu) | [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292)                     | [py](./4kyu/catching_car_mileage_numbers.py) |
 | [4](./4kyu) | [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)                   | [cpp](./4kyu/human_readable_duration_format.cpp) \| [py](./4kyu/human_readable_duration_format.py) |
