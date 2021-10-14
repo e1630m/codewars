@@ -25,6 +25,7 @@
 | [4](./4kyu) | [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)                                     | [js](./4kyu/permutations.js) \| [py](./4kyu/permutations.py) |
 | [4](./4kyu) | [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)                                 | [py](./4kyu/range_extraction.py) |
 | [4](./4kyu) | [Simple Maze](https://www.codewars.com/kata/56bb9b7838dd34d7d8001b3c)                                      | [py](./4kyu/simple_maze.py) |
+| [4](./4kyu) | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)                                            | [py](./4kyu/snail.py) |
 | [4](./4kyu) | [Topology #0: Converging Coins](https://www.codewars.com/kata/5f5bef3534d5ad00232c0fa8)                    | [py](./4kyu/topology0_converging_coins.py) |
 | [4](./4kyu) | [Twice Linear](https://www.codewars.com/kata/5672682212c8ecf83e000050)                                     | [py](./4kyu/twice_linear.py) |
 | [5](./5kyu) | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)               | [js](./5kyu/extract_the_domain_name_from_a_url.js) |
